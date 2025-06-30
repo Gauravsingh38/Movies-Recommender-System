@@ -118,10 +118,4 @@ Prepare your dataset:
         5. Building Flask API
         6. Pushing code to Github
         7. Connecting to your Heroku account 
-        8. Deploy App
-
-
-
-=======
-# Movies-Recommender-System
->>>>>>> bdf0b9ff7ecf382c4df2ae522b02f4c16a0c101f
+        8. Deploy app

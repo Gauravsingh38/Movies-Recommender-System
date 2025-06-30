@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **Building And Deploying A Movies Recommender System**
 ## Deployed Link
 [Click HERE To View App](https://moviesrecommendationsystem-6da23d63ead3.herokuapp.com/)

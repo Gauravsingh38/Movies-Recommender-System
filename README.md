@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Building And Deploying A Movies Recommender System**
 ## Deployed Link
 [Click HERE To View App](https://moviesrecommendationsystem-6da23d63ead3.herokuapp.com/)
@@ -122,3 +123,6 @@ Prepare your dataset:
 
 
 
+=======
+# Movies-Recommender-System
+>>>>>>> bdf0b9ff7ecf382c4df2ae522b02f4c16a0c101f
